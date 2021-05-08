@@ -1,5 +1,7 @@
 # BA476-SpotiPy-Billboard-Predictor
-This is my final machine learning project. The original dataset, before using Spotipy to get additional predictors, can be found here: 
+This is my team's final machine learning project; our team was comprised of myself, Rebecca Chang, Yung-Joon (Claire) Choi, and Brett Rado. 
+
+The original dataset, before using Spotipy to get additional predictors, can be found here: 
 https://www.kaggle.com/theoverman/the-spotify-hit-predictor-dataset.
 
 You will find folders with the Jupyter notebooks used to clean the data, create descriptive analytics/visualizations, and create models
