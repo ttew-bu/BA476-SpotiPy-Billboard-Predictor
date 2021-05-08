@@ -8,6 +8,7 @@ from spotipy.oauth2 import SpotifyClientCredentials
 
 #Here is where you should create variables for client_id and client_secret by registering/creating an app on the Spotify API
 
+#Use client credentials to use spotipy on the Spotify API
 client_credentials_manager = SpotifyClientCredentials(client_id,client_secret)
 sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
