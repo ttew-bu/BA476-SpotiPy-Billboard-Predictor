@@ -1,5 +1,5 @@
 # BA476-SpotiPy-Billboard-Predictor
-This is my team's final machine learning project; our team was comprised of myself, Rebecca Chang, Yung-Joon (Claire) Choi, and Brett Rado. 
+This is my team's final machine learning project; our team was comprised of myself, Rebecca Chang, Jung-Yoon (Claire) Choi, and Brett Rado. 
 
 The original dataset, before using Spotipy to get additional predictors, can be found here: 
 https://www.kaggle.com/theoverman/the-spotify-hit-predictor-dataset.
